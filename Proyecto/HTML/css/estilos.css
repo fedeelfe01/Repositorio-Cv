@@ -1,0 +1,25 @@
+h1 {
+    color:rgb(255, 255, 255);
+    text-align: center;
+    text-decoration-line: line-throughl;
+    font-family: "Lucida Handwriting";
+    font-size: 300%;
+    padding: 10px;
+    padding: left 10px;
+
+  }
+li {
+    display: block;
+    color:aliceblue;
+    font-size: 30px;
+    margin: 10px;
+  }
+ 
+  
+  body{
+    background-image: url(https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg);
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size: 100rem;
+  }
