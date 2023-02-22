@@ -1,5 +1,5 @@
 h1 {
-    color:rgb(255, 255, 255);
+    color:rgb(5, 248, 45);
     text-align: center;
     text-decoration-line: line-throughl;
     font-family: "Lucida Handwriting";
@@ -8,7 +8,18 @@ h1 {
     padding: left 10px;
 
   }
-li {
+
+  h2 {
+    color:rgb(235, 14, 14);
+    text-align: left;
+    text-decoration-line: line-throughl;
+    font-family: "Lucida Handwriting";
+    font-size: 200%;
+    padding: 10px;
+    padding: left 10px;
+
+  }
+div {
     display: block;
     color:rgb(0, 0, 0);
     font-size: 30px;
@@ -16,12 +27,17 @@ li {
     font-weight: bolder;
     margin: 10px;
   }
+  li {
+    display: block;
+    color:rgb(32, 0, 92);
+    font-size: 25px;
+    font-style: oblique;
+    margin: 5px;
+  }
  
   
   body{
-    background-image: url(https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg);
+    background-image: url(htt);
     background-repeat:no-repeat;
-    background-position-x:center;
-    background-position-y:center;
-    background-size: 100rem;
+    background-size: 50rem;
   }
