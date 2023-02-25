@@ -1,3 +1,5 @@
+/* Decidí trabajar solo con estilos de Css, sin usar frameworks, para poder sumergirme mas en el mundo CSS y entender como trabaja*/
+
 h1 {
     color:rgb(5, 30, 116);
     text-align: center;
@@ -88,4 +90,11 @@ button:hover{
 button:active{
   box-shadow:inset .2rem .2rem 1rem #ccc,
   -.2rem -.2rem 1rem #ccc;
+}
+
+div.pestaña{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 21px;
+  color: rgb(0, 97, 97);
+  margin-left: 5rem;
 }
