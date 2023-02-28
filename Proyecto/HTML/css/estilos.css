@@ -50,18 +50,20 @@ div {
 #navegador ul{
    list-style-type: none;
    text-align: center;
+    
    
 }
 #navegador li{
    display: inline;
    text-align: center;
    margin: 0 10px 0 0;
+
 }
 #navegador li a {
   font-size: 21px;
    padding: 2px 7px 2px 7px;
    color: #666;
-   background-color: #eeeeee;
+   background-color: #9da4e5;
    border: 1px solid #ccc;
    text-decoration: none;
 }
